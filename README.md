@@ -1,4 +1,4 @@
-# Banco de Dados <img src="images/image_bd.png" width="10%" height="10%" align="right" valign="center"/> 
+![image](https://github.com/Thiago-CSantos/Banco-Dados-II/assets/104088057/bab6a9c0-e263-4314-8c32-b68360fc4422)# Banco de Dados II <img src="images/image_bd.png" width="10%" height="10%" align="right" valign="center"/> 
 
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
 ![learning](https://img.shields.io/badge/SQL-learning-green.svg)
@@ -12,27 +12,7 @@
 - [SQL: aulas](sql/aulas)
 - [SQL: exercícios resolvidos](sql/exercicios)
 - [SQL: execução dos exercícios resolvidos direto no navegador](https://colab.research.google.com/drive/1_X-KgO7pNk_VU2w52FVcyHsSCjRLnsiE?usp=sharing)
- 
----
 
-### Banco de Dados II
-- [Tuning em banco de dados](bd_II)
-- [Seminário sobre a rede Tangle (blockchain 3.0)](bd_II/exercicios/seminario_rede_tangle.pptx)
-
----
-
-### Banco de Dados III
- - [Banco de dados orientado à objetos: aulas](bd_III/banco_de_dados_SQL/aulas/bd_orientado_a_objetos)
- - [Banco de dados orientado à objetos: exercícios](bd_III/banco_de_dados_SQL/exercicios/exercicios_bdoo)
- - [Bancos de Dados Temporais: aulas](bd_III/banco_de_dados_SQL/aulas/bd_temporais)
- - [Bancos de Dados Temporais: exercícios](bd_III/banco_de_dados_SQL/exercicios/exercicios_bdt)
- - [Bancos de Dados Geográficos: aulas](bd_III//banco_de_dados_SQL/aulas/bd_geograficos)
- - [Bancos de Dados Geográficos: exercícios](bd_III//banco_de_dados_SQL/exercicios/exercicios_bdgeograficos)
- - [Bancos de Dados XML: aulas](bd_III//banco_de_dados_SQL/aulas/bd_xml)
- - [Bancos de Dados XML: exercícios](bd_III//banco_de_dados_SQL/exercicios/exercicios_bd_xml)
- - [Not only (NoSQL)](bd_III//banco_de_dados_noSQL)
- - [New SQL](bd_III//banco_de_dados_newSQL)
- 
 ---
 
 <br/>
@@ -58,7 +38,7 @@
 <details>	
   <summary><a> SQL Joins</a></summary>
 
-  <img src="images/sql_join.png" width="80%" height="80%" align="center" valign="center"/> 
+  <img src="images/sql_join.jpg" width="80%" height="80%" align="center" valign="center"/> 
   <br/>
 </details>
 
@@ -71,7 +51,7 @@
   <br/>
   Se as consultas em uma transação foram executadas com sucesso, salvamos as alterações usando a sintaxe `COMMIT`. Se as consultas em uma transação falharem na execução, então reverteremos as alterações antes da execução da transação usando a sintaxe `ROLLBACK`.
   
-  <img src="images/transaction.jpeg" width="80%" height="80%" align="center" valign="center"/> 
+  <img src="images/transaction.png" width="80%" height="80%" align="center" valign="center"/> 
   
   Ex:
   ```sql
@@ -161,24 +141,18 @@ Isso causa um ciclo de dependências (dependência cíclica) e assim impedindo q
 <br/>
 
 ### **Livros de Referência**
-- [Sistemas de Banco de Dados - Elmasri e Navathe - 6ª Edicao](https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Sistemas%20de%20Banco%20de%20Dados%20navathe%206%C2%AA%20Edicao.pdf)
-- [Sistemas de Gerenciamento de Banco de Dados - Ramakrishnan e Gehrke - 6ª Edicao](https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Sistemas%20de%20Gerenciamento%20de%20Banco%20de%20Dados%20-%203%C2%AA%20Ed.pdf)
-- [Use a cabeca - SQL](https://github.com/brunocampos01/banco-de-dados/blob/master/livros/Use%20a%20Cabeca%20-%20SQL.pdf)
+- [Sistemas de Banco de Dados - Elmasri e Navathe - 6ª Edicao]()
+- [Sistemas de Gerenciamento de Banco de Dados - Ramakrishnan e Gehrke - 6ª Edicao]()
+- [Use a cabeca - SQL]()
 
 ---
 
 <p  align="left">
 	<br/>
-	<a href="mailto:brunocampos01@gmail.com" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/email.png" width="30">
+	<a href="mailto:thiagocarretero433@gmail.com" target="_blank"><img src="images/email.png" width="30">
 	</a>
-	<a href="https://stackoverflow.com/users/8329698/bruno-campos" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/stackoverflow.png" width="30">
+	<a href="https://www.linkedin.com/in/thiago-santos-thc/" target="_blank"><img src="images/linkedin.png" width="30">
 	</a>
-	<a href="https://www.linkedin.com/in/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/linkedin.png" width="30">
-	</a>
-	<a href="https://github.com/brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/github.png" width="30"></a>
-	<a href="https://medium.com/@brunocampos01" target="_blank"><img src="https://github.com/brunocampos01/brunocampos01/blob/main/images/medium.png" width="30">
-	</a>
-    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png",  align="right" />
-    </a>
+	<a href="https://github.com/Thiago-CSantos" target="_blank"><img src="images/github.png" width="30"></a>
     <br/>
 </p>
