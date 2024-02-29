@@ -1,4 +1,4 @@
-![image](https://github.com/Thiago-CSantos/Banco-Dados-II/assets/104088057/bab6a9c0-e263-4314-8c32-b68360fc4422)# Banco de Dados II <img src="images/image_bd.png" width="10%" height="10%" align="right" valign="center"/> 
+# Banco de Dados II <img src="images/image_bd.png" width="10%" height="10%" align="right" valign="center"/> 
 
 ![License](https://img.shields.io/badge/Code%20License-MIT-green.svg)
 ![learning](https://img.shields.io/badge/SQL-learning-green.svg)
